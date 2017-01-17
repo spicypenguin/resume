@@ -162,7 +162,7 @@ disable404 = true
         details = "Acted as a senior member of the IT leadership team within Atlassian, working directly with members of the Atlassian executive team to set IT strategy and direction, and both worked with engineers and led analysts to execute on that strategy."
 
         [[params.jobs.list]]
-        position = "Business Analst Team Lead"
+        position = "Business Analyst Team Lead"
         dates = "2012 - 2013"
         company = "Atlassian, San Francisco"
         details = "Led a team of 5 Business Analysts focused on all aspects of IT capability within Atlassian. Covering all business functions and capabilities from order forms on our customer facing website, through legal and HR systems in our back office teams."
