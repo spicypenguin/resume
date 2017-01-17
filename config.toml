@@ -1,0 +1,259 @@
+# Page settings
+
+baseurl = "https://jeffsinclair.online/"
+languageCode = "en-us"
+title = "Jeff Sinclair Resume"
+theme = "hugo-orbit-theme"
+googleAnalytics = "UA-XXXXXXX-Y"
+
+# Do not build files for websites. Need them? Set to false
+disableRSS = true
+disableSitemap = true
+disable404 = true
+
+[params]
+
+# Meta
+    description = "Jeff Sinclair's Resume"
+    author = "Jeff Sinclair"
+
+# Theme styles
+
+    # The original template comes with 6 colour schemes. You may choose styles below.
+    # "styles.css", "styles-2.css", "styles-3.css", "styles-4.css", "styles-5.css", "styles-6.css"
+    # are available. Also the source LESS files are included so
+    # it’s quick and easy to change the styling and colour scheme.
+
+    styles = "styles-6.css"
+
+# Sidebar sections
+
+    # Profile section
+    [params.profile]
+        name = "Jeff Sinclair"
+        tagline = "Senior Product Manager"
+        avatar = "profile.png"
+
+    # Contact section
+    [params.contact]
+        enable = true
+
+        [[params.contact.list]]
+        class = "email"
+        icon = "fa-envelope"
+        url = "mailto: jeff@sinclair.family"
+        title = "jeff@sinclair.family"
+
+        [[params.contact.list]]
+        class = "phone"
+        icon = "fa-phone"
+        url = "tel:+14153738663"
+        title = "(415) 373-8663"
+
+        [[params.contact.list]]
+        class = "linkedin"
+        icon = "fa-linkedin"
+        url = "//linkedin.com/in/jefferysinclair"
+        title = "Jeff Sinclair"
+
+        [[params.contact.list]]
+        class = "github"
+        icon = "fa-github"
+        url = "//github.com/jsinks"
+        title = "github.com/jsinks"
+
+        [[params.contact.list]]
+        class = "twitter"
+        icon = "fa-twitter"
+        url = "//twitter.com/jsinkers"
+        title = "@jsinkers"
+
+    # Education section
+    [params.education]
+        enable = true
+        title = "Education"
+
+        [[params.education.list]]
+        degree = "Bachelor of I.T."
+        college = "University of Technology, Sydney"
+        dates = "2004 - 2006"
+
+        [[params.education.list]]
+        degree = "AWS Certified Solutions Architect Associate"
+        college = "Amazon Web Services"
+        dates = "2016"
+
+        [[params.education.list]]
+        degree = "AWS Certified Developer Associate"
+        college = "Amazon Web Services"
+        dates = "2016"
+
+        [[params.education.list]]
+        degree = "Certified Pragmatic Marketer Level 1 + 2"
+        college = "Pragmatic Marketing"
+        dates = "2016"
+
+    # Languages section
+    [params.languages]
+        enable = true
+        title = "Languages"
+
+        [[params.languages.list]]
+        language = "English"
+        level = "Native"
+
+    # Interests section
+    [params.interests]
+        enable = true
+        title = "Interests"
+
+        [[params.interests.list]]
+        interest = "Programming"
+
+        [[params.interests.list]]
+        interest = "Computer Science"
+
+        [[params.interests.list]]
+        interest = "Artificial Intelligence"
+
+        [[params.interests.list]]
+        interest = "Robotics"
+
+        [[params.interests.list]]
+        interest = "Video Games"
+
+        [[params.interests.list]]
+        interest = "Photography"
+
+        [[params.interests.list]]
+        interest = "Home Improvement"
+
+# Main body sections
+
+    # Summary section
+    [params.summary]
+        enable = true
+        icon = "fa-user"
+        title = "Career Profile"
+        summary = "Jeff is a seasoned Product Manager, with almost 10 years experience in agile software development, and high tech finance roles. Throughout his career, he has been looked up to as a leader of teams across a variety of disciplines, most recently focused on agile software development projects. He is consistently looked to as someone who can get sh*t done."
+
+    # Experiences section
+    [params.experiences]
+        enable = true
+        icon = "fa-briefcase"
+        title = "Professional Experience"
+
+        [[params.jobs.list]]
+        position = "Senior Product Manager"
+        dates = "2016 - Present"
+        company = "Atlassian, San Francisco"
+        details = "Senior Product Manager, focused on Email as an acquisition, activation and retention channel for Atlassian's business. Leading a team of engineers and analysts to create a next generation Engagement platform, that enables Atlassian staff to effectively communicate with the users of our Cloud products."
+
+        [[params.jobs.list]]
+        position = "Senior IT Manager"
+        dates = "2015 - 2016"
+        company = "Atlassian, San Francisco"
+        details = "Head of Go to Market technology team, leading two sub-teams of engineers and product managers focused on Marketing and Sales technology stacks. Worked extensively with SaaS vendors in this space, and worked with my leaders to set strategy for each of these business critical areas of capability. High touch role working with a significant portion of internal Atlassian staff."
+
+        [[params.jobs.list]]
+        position = "IT Portfolio Manager"
+        dates = "2013 - 2015"
+        company = "Atlassian, San Francisco"
+        details = "Acted as a senior member of the IT leadership team within Atlassian, working directly with members of the Atlassian executive team to set IT strategy and direction, and both worked with engineers and led analysts to execute on that strategy."
+
+        [[params.jobs.list]]
+        position = "Business Analst Team Lead"
+        dates = "2012 - 2013"
+        company = "Atlassian, San Francisco"
+        details = "Led a team of 5 Business Analysts focused on all aspects of IT capability within Atlassian. Covering all business functions and capabilities from order forms on our customer facing website, through legal and HR systems in our back office teams."
+
+        [[params.jobs.list]]
+        position = "Technical Analyst + Project Manager"
+        dates = "2011 - 2012"
+        company = "Macquarie Holdings, New York"
+        details = "Technical Business Analyst + Project manager for middle and back office trading systems, supporting the low / medium / high frequency proprietary trading desks. Primarily supporting the Stock Borrow/Loan capability for the High Frequency, algorithmic trading desk."
+
+        [[params.jobs.list]]
+        position = "Business Analyst"
+        dates = "2010 - 2011"
+        company = "Macquarie Bank, Bristol"
+        details = "Relocated to Bristol (United Kingdom), to work as a Business Analyst on Macquarie's UK Wrap product. Servicing independent financial advisers in the South West of the UK, with a technology platform to facilitate relationships with high net-worth clients."
+
+        [[params.jobs.list]]
+        position = "Business Analyst Team Lead"
+        dates = "2009 - 2010"
+        company = "Macquarie Bank, Sydney"
+        details = "Repsonsible for line management of a team of 14 Business Analysts working within the Banking + Financial Service division, in addition to my standard responsibilities as a Senior Business Analyst. Team responsible for analysis across the Credit Cards, Online Savings and Online Investment business lines. Led analysis efforts on the launch of the Macquarie Edge online trading platform."
+
+        [[params.jobs.list]]
+        position = "Business Analyst"
+        dates = "2006 - 2009"
+        company = "Macquarie Bank, Sydney"
+        details = "Worked for Macquarie Private Wealth as a business analyst on a number of core initiatives. Handled projects across CRM, Order Settlement, Order Management, Online Trading UI, Contract Note Fulfilment, IPO Processing, Lead Managememt, and Compliance Systems. Refined and improved existing SDLC processes for Business Analyst team."
+
+
+    # Skills section
+    [params.skills]
+        enable = true
+        icon = "fa-rocket"
+        title = "Skills & Proficiency"
+
+        [[params.skills.list]]
+        skill = "Agile Methodology"
+        level = "95%"
+
+        [[params.skills.list]]
+        skill = "Business Analysis"
+        level = "95%"
+                
+        [[params.skills.list]]
+        skill = "Product Management"
+        level = "80%"
+
+        [[params.skills.list]]
+        skill = "Data Analytics"
+        level = "80%"
+
+        [[params.skills.list]]
+        skill = "Vendor Management"
+        level = "90%"                
+
+        [[params.skills.list]]
+        skill = "Python"
+        level = "80%"
+
+        [[params.skills.list]]
+        skill = "Android"
+        level = "25%"
+
+        [[params.skills.list]]
+        skill = "HTML5 & CSS"
+        level = "65%"
+
+        [[params.skills.list]]
+        skill = "Postgres"
+        level = "75%"        
+
+        [[params.skills.list]]
+        skill = "Amazon Web Services"
+        level = "75%"
+
+        [[params.skills.list]]
+        skill = "Atlassian Stack"
+        level = "98%"
+
+        [[params.skills.list]]
+        skill = "Photoshop"
+        level = "50%"
+
+    # Footer section
+
+    # The original template is released under the Creative Commons Attribution 3.0 License.
+    # Please keep the original attribution link when using for your own project.
+    # If you'd like to use the template without the attribution,
+    # you can check out other license options via template author's website: themes.3rdwavemedia.com
+    # 
+    # As for Hugo port you may rewrite the "Ported for..." line with setting your name below.
+
+    [params.footer]
+        copyright = "Jeff Sinclair"
