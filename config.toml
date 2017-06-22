@@ -1,6 +1,6 @@
 # Page settings
 
-baseurl = "https://d8s5m0p6ypahb.cloudfront.net/"
+baseurl = "https://jeffsinclair.online/"
 languageCode = "en-us"
 title = "Jeff Sinclair Resume"
 theme = "hugo-orbit-theme"
