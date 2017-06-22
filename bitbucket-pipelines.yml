@@ -4,7 +4,7 @@ pipelines:
   default:
     - step:
         script:
-          - apt-get install git-all
+          - apk install git
           - cd themes && git clone https://github.com/aerohub/hugo-orbit-theme && cd ..
           - hugo --theme=hugo-orbit-theme
           - aws s3 sync --delete public s3://aws-website-jeffsinclaironline-1ezxy
