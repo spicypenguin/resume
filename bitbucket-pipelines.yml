@@ -4,5 +4,5 @@ pipelines:
   default:
     - step:
         script:
-          - hugo
+          - hugo --theme=hugo-orbit-theme
           - aws s3 sync --delete public s3://aws-website-jeffsinclaironline-1ezxy
