@@ -39,18 +39,6 @@ disable404 = true
         enable = true
 
         [[params.contact.list]]
-        class = "email"
-        icon = "fa-envelope"
-        url = "mailto: jeff@sinclair.family"
-        title = "jeff@sinclair.family"
-
-        [[params.contact.list]]
-        class = "phone"
-        icon = "fa-phone"
-        url = "tel:+14153738663"
-        title = "(415) 373-8663"
-
-        [[params.contact.list]]
         class = "linkedin"
         icon = "fa-linkedin"
         url = "//linkedin.com/in/jefferysinclair"
