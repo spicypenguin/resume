@@ -4,7 +4,7 @@ baseurl = "https://jeffsinclair.online/"
 languageCode = "en-us"
 title = "Jeff Sinclair Resume"
 theme = "hugo-orbit-theme"
-googleAnalytics = "UA-XXXXXXX-Y"
+googleAnalytics = "UA-66649205-3"
 
 # Do not build files for websites. Need them? Set to false
 disableRSS = true
@@ -205,53 +205,94 @@ disable404 = true
         icon = "fa-rocket"
         title = "Skills & Proficiency"
 
+
+        # Advanced skills - 8
+
         [[params.skills.list]]
-        skill = "Agile Methodology"
+        skill = "Atlassian products (Jira Software, Confluence)"
+        level = "100%"
+
+        [[params.skills.list]]
+        skill = "Email & in-product messaging"
         level = "95%"
 
         [[params.skills.list]]
-        skill = "Business Analysis"
+        skill = "User segmentation & targeting"
         level = "95%"
-                
+
         [[params.skills.list]]
-        skill = "Product Management"
+        skill = "SQL"
+        level = "95%"
+
+        [[params.skills.list]]
+        skill = "Agile methodology"
+        level = "95%"
+
+        [[params.skills.list]]
+        skill = "User story mapping"
+        level = "90%"
+
+        [[params.skills.list]]
+        skill = "Experimentation & measurement"
+        level = "85%"
+
+        [[params.skills.list]]
+        skill = "Product management"
         level = "80%"
 
-        [[params.skills.list]]
-        skill = "Data Analytics"
-        level = "80%"
+
+        # Strong skills - 7
 
         [[params.skills.list]]
-        skill = "Vendor Management"
-        level = "90%"                
-
-        [[params.skills.list]]
-        skill = "Python"
-        level = "80%"
-
-        [[params.skills.list]]
-        skill = "Android"
-        level = "25%"
-
-        [[params.skills.list]]
-        skill = "HTML5 & CSS"
-        level = "65%"
-
-        [[params.skills.list]]
-        skill = "Postgres"
-        level = "75%"        
-
-        [[params.skills.list]]
-        skill = "Amazon Web Services"
+        skill = "User behaviour modelling"
         level = "75%"
 
         [[params.skills.list]]
-        skill = "Atlassian Stack"
-        level = "98%"
+        skill = "Vision & strategy"
+        level = "65%"
+                
+        [[params.skills.list]]
+        skill = "People leadership"
+        level = "65%"
 
         [[params.skills.list]]
-        skill = "Photoshop"
-        level = "50%"
+        skill = "Vendor management & contract negotiation"
+        level = "65%"
+
+        [[params.skills.list]]
+        skill = "Python (Software engineering)"
+        level = "60%"   
+
+        [[params.skills.list]]
+        skill = "Public speaking"
+        level = "60%"
+
+        [[params.skills.list]]
+        skill = "Continuous integration & deployment"
+        level = "55%"
+
+
+        # Novice skills - 5
+
+        [[params.skills.list]]
+        skill = "User research"
+        level = "45%"
+
+        [[params.skills.list]]
+        skill = "UX design"
+        level = "45%"
+
+        [[params.skills.list]]
+        skill = "Amazon Web Services"
+        level = "40%"
+
+        [[params.skills.list]]
+        skill = "Git"
+        level = "35%"
+
+        [[params.skills.list]]
+        skill = "Machine learning"
+        level = "30%"
 
     # Footer section
 
