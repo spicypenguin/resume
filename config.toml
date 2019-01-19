@@ -31,7 +31,7 @@ disable404 = true
     # Profile section
     [params.profile]
         name = "Jeff Sinclair"
-        tagline = "Product Leader"
+        tagline = "Experienced Product Leader"
         avatar = "profile.png"
 
     # Contact section
@@ -96,22 +96,25 @@ disable404 = true
         title = "Interests"
 
         [[params.interests.list]]
-        interest = "Programming"
+        interest = "Product"
 
         [[params.interests.list]]
-        interest = "Computer Science"
+        interest = "Product Design"
 
         [[params.interests.list]]
-        interest = "Artificial Intelligence"
+        interest = "Big Data"
+        
+        [[params.interests.list]]
+        interest = "Machine Learning"
+        
+        [[params.interests.list]]
+        interest = "Software Engineering"    
 
         [[params.interests.list]]
         interest = "Robotics"
 
         [[params.interests.list]]
         interest = "Video Games"
-
-        [[params.interests.list]]
-        interest = "Photography"
 
         [[params.interests.list]]
         interest = "Home Improvement"
