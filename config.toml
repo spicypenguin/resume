@@ -14,6 +14,7 @@ disable404 = true
 [params]
 
 # Meta
+    title = "Jeff Sinclair - Experienced Product Leader"
     description = "Jeff Sinclair's Resume"
     author = "Jeff Sinclair"
 
@@ -126,7 +127,7 @@ disable404 = true
         enable = true
         icon = "fa-user"
         title = "Career Profile"
-        summary = "Jeff is a seasoned technology leader, with a passion for Product & Engineering. He has over 10 years experience spread across the Software and Fin-Tech industries, in roles spanning from Product Management to Cross-functional team leadership. Jeff has a desirably unique blend of skills - his product mindset, software engineering background, data analysis skills, and sharp business acumen - allowing him to step into any role and have near-immediate impact."
+        summary = "Data Driven, growth-minded SaaS technology leader with over 10 years hands-on experience in both Software Development and Finance at high growth companies. I have a desirably unique blend of skills - a user-centric product mindset, a background in software engineering, advanced data exploration and analysis skills, and sharp business acumen - allowing me to step into any role and have near-immediate impact."
 
     # Experiences section
     [params.experiences]
@@ -135,51 +136,51 @@ disable404 = true
         title = "Professional Experience"
 
         [[params.jobs.list]]
-        position = "Senior Product Manager"
+        position = "Product Manager, Engagement Platform"
         dates = "2016 - Present"
-        company = "Atlassian, San Francisco"
+        company = "Atlassian (San Francisco, USA)"
         details = "Senior Product Manager, focused on Email as an acquisition, activation and retention channel for Atlassian's business. Leading a team of engineers and analysts to create a next generation Engagement platform, that enables Atlassian staff to effectively communicate with the users of our Cloud products."
 
         [[params.jobs.list]]
-        position = "Senior IT Manager"
+        position = "Senior Manager, Go to Market Technology"
         dates = "2015 - 2016"
-        company = "Atlassian, San Francisco"
+        company = "Atlassia (San Francisco, USA)"
         details = "Head of Go to Market technology team, leading two sub-teams of engineers and product managers focused on Marketing and Sales technology stacks. Worked extensively with SaaS vendors in this space, and worked with my leaders to set strategy for each of these business critical areas of capability. High touch role working with a significant portion of internal Atlassian staff."
 
         [[params.jobs.list]]
         position = "IT Portfolio Manager"
         dates = "2013 - 2015"
-        company = "Atlassian, San Francisco"
+        company = "Atlassian (San Francisco, USA)"
         details = "Acted as a senior member of the IT leadership team within Atlassian, working directly with members of the Atlassian executive team to set IT strategy and direction, and both worked with engineers and led analysts to execute on that strategy."
 
         [[params.jobs.list]]
         position = "Business Analyst Team Lead"
         dates = "2012 - 2013"
-        company = "Atlassian, San Francisco"
+        company = "Atlassian (San Francisco, USA)"
         details = "Led a team of 5 Business Analysts focused on all aspects of IT capability within Atlassian. Covering all business functions and capabilities from order forms on our customer facing website, through legal and HR systems in our back office teams."
 
         [[params.jobs.list]]
-        position = "Technical Analyst + Project Manager"
+        position = "Technical Systems Analyst"
         dates = "2011 - 2012"
-        company = "Macquarie Holdings, New York"
+        company = "Macquarie Holdings (New York, USA)"
         details = "Technical Business Analyst + Project manager for middle and back office trading systems, supporting the low / medium / high frequency proprietary trading desks. Primarily supporting the Stock Borrow/Loan capability for the High Frequency, algorithmic trading desk."
 
         [[params.jobs.list]]
         position = "Business Analyst"
         dates = "2010 - 2011"
-        company = "Macquarie Bank, Bristol"
+        company = "Macquarie Group (Bristol, UK)"
         details = "Relocated to Bristol (United Kingdom), to work as a Business Analyst on Macquarie's UK Wrap product. Servicing independent financial advisers in the South West of the UK, with a technology platform to facilitate relationships with high net-worth clients."
 
         [[params.jobs.list]]
         position = "Business Analyst Team Lead"
         dates = "2009 - 2010"
-        company = "Macquarie Bank, Sydney"
+        company = "Macquarie Bank (Sydney, Australia)"
         details = "Repsonsible for line management of a team of 14 Business Analysts working within the Banking + Financial Service division, in addition to my standard responsibilities as a Senior Business Analyst. Team responsible for analysis across the Credit Cards, Online Savings and Online Investment business lines. Led analysis efforts on the launch of the Macquarie Edge online trading platform."
 
         [[params.jobs.list]]
         position = "Business Analyst"
         dates = "2006 - 2009"
-        company = "Macquarie Bank, Sydney"
+        company = "Macquarie Bank (Sydney, Australia)"
         details = "Worked for Macquarie Private Wealth as a business analyst on a number of core initiatives. Handled projects across CRM, Order Settlement, Order Management, Online Trading UI, Contract Note Fulfilment, IPO Processing, Lead Managememt, and Compliance Systems. Refined and improved existing SDLC processes for Business Analyst team."
 
 
