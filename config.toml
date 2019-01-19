@@ -172,7 +172,7 @@ disable404 = true
         position = "Business Analyst Team Lead"
         dates = "2012 - 2013"
         company = "Atlassian (San Francisco, USA)"
-        details = "Led a team of 5 Business Analysts focused on all aspects of IT capability within Atlassian. Covering all business functions and capabilities from order forms on our customer facing website, through legal and HR systems in our back office teams."
+        details = "Business Analyst Team Lead, and IT Leader for San Francisco office location. Responsible for managing an existing team of 5 business analysts to support Atlassian's internal business systems portfolio. Projects ranged from our client facing order form on the website, to our internal bespoke billing system, our financial accounting system (including revenue recognition), marketing technology stack, salesforce.com implementation, to our internal datawarehouse. \n  \n Responsibilities included: \n  \n * Day to day line management responsibility for team of IT Business Analysts \n * Directly liasing with key business stakeholders from all supported business functions to define IT Program of work and prioritse accordingly \n * Act as IT Leader in the San Francisco office - primary touch point for the President, Legal Counsel, and CFO who were co-located in San Francisco \n * Support program of engineering work (define requirements, manage projects, perform testing, basic data analysis) across entire project portfolio \n * Attract and retain talent within the analyst function (recruiting both externally as well as internally) \n "
 
         [[params.jobs.list]]
         position = "Technical Systems Analyst"
