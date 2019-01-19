@@ -31,7 +31,7 @@ disable404 = true
     # Profile section
     [params.profile]
         name = "Jeff Sinclair"
-        tagline = "Senior Product Manager"
+        tagline = "Product Leader"
         avatar = "profile.png"
 
     # Contact section
@@ -123,7 +123,7 @@ disable404 = true
         enable = true
         icon = "fa-user"
         title = "Career Profile"
-        summary = "Jeff is a seasoned Product Manager, with almost 10 years experience in agile software development, and high tech finance roles. Throughout his career, he has been looked up to as a leader of teams across a variety of disciplines, most recently focused on agile software development projects. He is consistently looked to as someone who can get sh*t done."
+        summary = "Jeff is a seasoned technology leader, with a passion for Product & Engineering. He has over 10 years experience spread across the Software and Fin-Tech industries, in roles spanning from Product Management to Cross-functional team leadership. Jeff has a desirably unique blend of skills - his product mindset, software engineering background, data analysis skills, and sharp business acumen - allowing him to step into any role and have near-immediate impact."
 
     # Experiences section
     [params.experiences]
