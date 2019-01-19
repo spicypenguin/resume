@@ -151,52 +151,52 @@ disable404 = true
         title = "Professional Experience"
 
         [[params.jobs.list]]
-        position = "Product Manager, Engagement Platform"
+        position = "Engagement Platform, Product Manager"
         dates = "2016 - Present"
         company = "Atlassian (San Francisco, USA)"
         details = "Product Manager, responsible for building Atlassian's Engagement Platform product and capability from the ground up. Team started as 2 independent sub-teams (one focused on email, and one on in-product); team's merged in early 2017 at which time I took over leadership of the combined team. \n \n Responsibilities included: \n\n * Lead team of engineers and analysts to create an bespoke user messaging platform \n * Set vision and define strategy for the product team \n * Sell vision of platform to senior leadership team around company to secure funding for team \n * Participate in all key scrum-team rituals such as sprint planning and retrospectives \n * Drive adoption of the platform across Atlassian's product portfolio \n * Work with product and marketing teams to inform messaging strategy for user activation, engagement, retention, and winback of Atlassian's cloud products"
 
         [[params.jobs.list]]
-        position = "Senior Manager, Go to Market Technology"
+        position = "Go to Market Technology (IT), Senior Manager"
         dates = "2015 - 2016"
         company = "Atlassian (San Francisco, USA)"
         details = "Leader of the Go to Market Technology (IT) team, responsible for the portfolio of products and systems necessary to operate Atlassian's Marketing and Sales business units. \n  \n Responsibilities included: \n  \n * Directly manage 2 IT product managers - one algined to each business unit (MarTech and SalesTech) \n * Hire and manage day-to-day performance of these individuals, and assist in hiring of their respsective teams \n * Assist product leaders set their individual product visions and strategies \n * Key member of IT leadership team, representing the needs of my sub-teams \n * Represent teams at quarterly and yearly planning cycles for budgeting, performance reviews and talent management \n * Work extensively with related SaaS vendors for contract negotiation and ongoing management \n * Work directly with a range of internal Atlassian staff in our supported business areas \n * Dive deep to assist engineers and business analysts in my sub-teams with high impact business problems"
 
         [[params.jobs.list]]
-        position = "IT Portfolio Manager"
+        position = "IT, Portfolio Manager"
         dates = "2013 - 2015"
         company = "Atlassian (San Francisco, USA)"
         details = "General IT leadership position, responsible for setting strategy and execution across all programs of work within the IT Portfolio. Covered all internal business applications in support of key business functions such as Marketing, Sales, Support, Finance, Legal, People, Data & Analytics. \n  \n Responsibilities included: \n  \n * Directly managing a team of business analysts to execute against program of work \n * Hiring new business analysts, and performing talent management exercises for existing team \n * Working directly with Atlassian executive team on a regular basis to align IT portfolio to business objectives \n * Partnered with IT Development Manager to execute against agreed programs of work \n * Key member of IT Leadership team, responsible for assisting to set future team structures and hiring key leadership positions \n * Ran various functions within IT during periods of re-organization such as the Systems Administration team, Workplace Technology team, and Workplace Engineering teams \n * Drove key vendor discussions such as GoodData implementation company wide \n * Supoorted key initiatives within the IT Portfolio, especially in the lead up to Atlassian's IPO"
 
         [[params.jobs.list]]
-        position = "Business Analyst Team Lead"
+        position = "IT, BA Team Lead"
         dates = "2012 - 2013"
         company = "Atlassian (San Francisco, USA)"
         details = "Business Analyst Team Lead, and IT Leader for San Francisco office location. Projects ranged from our client facing order form on the website, to our internal bespoke billing system, our financial accounting system (including revenue recognition), marketing technology stack, salesforce.com implementation, to our internal datawarehouse. \n  \n Responsibilities included: \n  \n * Day to day line management responsibility for team of IT Business Analysts \n * Directly liasing with key business stakeholders from all supported business functions to define IT Program of work and prioritse accordingly \n * Act as IT Leader in the San Francisco office - primary touch point for the President, Legal Counsel, and CFO who were co-located in San Francisco \n * Support program of engineering work (define requirements, manage projects, perform testing, basic data analysis) across entire project portfolio \n * Attract and retain talent within the analyst function (recruiting both externally as well as internally) \n "
 
         [[params.jobs.list]]
-        position = "Technical Systems Analyst"
+        position = "Proprietary Trading, Technical Systems Analyst"
         dates = "2011 - 2012"
         company = "Macquarie Holdings (New York, USA)"
-        details = "Technical Business Analyst + Project manager for middle and back office trading systems, supporting the low / medium / high frequency proprietary trading desks. Primarily supporting the Stock Borrow/Loan capability for the High Frequency, algorithmic trading desk."
+        details = "Technical Systems Analyst, providing systems analysis support for the proprietary trading desk. Worked on projects covering middle office (risk management), and back office (Stock Borrow Loan and trade settlements), for all active strategies on the desk. Primary trading strategies on the desk were low frequency and medium frequency (algo-assisted), with high frequency strategies coming on-line as I was leaving this role. \n \n Worked with a remote engineering team based in Singapore for data pipelining and warehousing requirements."
 
         [[params.jobs.list]]
-        position = "Business Analyst"
+        position = "UK Wrap, Business Analyst"
         dates = "2010 - 2011"
         company = "Macquarie Group (Bristol, UK)"
-        details = "Relocated to Bristol (United Kingdom), to work as a Business Analyst on Macquarie's UK Wrap product. Servicing independent financial advisers in the South West of the UK, with a technology platform to facilitate relationships with high net-worth clients."
+        details = "Business Analyst supporting Macquarie's UK Wrap product, based in Bristol. UK Wrap was Macquarie's independent financial advisor platform for the UK market, providing access to a suite of internal Macquarie products, research and reporting capabilities. \n \n Role was primarily focused on analysing existing system data quality issues, working with our local engineering team to attempt to remediate, and working with an external design agency to ready UK Wrap 2.0 for public release (revised user experience)."
 
         [[params.jobs.list]]
-        position = "Business Analyst Team Lead"
+        position = "Macquarie Direct, BA Team Lead"
         dates = "2009 - 2010"
         company = "Macquarie Bank (Sydney, Australia)"
-        details = "Repsonsible for line management of a team of 14 Business Analysts working within the Banking + Financial Service division, in addition to my standard responsibilities as a Senior Business Analyst. Team responsible for analysis across the Credit Cards, Online Savings and Online Investment business lines. Led analysis efforts on the launch of the Macquarie Edge online trading platform."
+        details = "Business Analyst Team Lead for Macquarie's Direct products. Covering a portfolio from Online Trading, to Cash Management, and Credit Cards. \n \n Responsibilities included: \n \n \n * Managed a team of up to 14 business analysts supporting all of Macquarie's products that were direct-to-consumer \n * Provided month-to-month project and task allocation amongst my team \n * Performed performance management for individuals on the team \n * Led effort to build and deploy Macquarie's newest online trading platform (Macquarie Edge) \n * Worked directly with engineers to execute against designed business requirements n * Engaged with other areas of the bank such as the Securities group on key projects such as trading platform consolidation"
 
         [[params.jobs.list]]
-        position = "Business Analyst"
+        position = "Macquarie Private Wealth, Business Analyst"
         dates = "2006 - 2009"
         company = "Macquarie Bank (Sydney, Australia)"
-        details = "Worked for Macquarie Private Wealth as a business analyst on a number of core initiatives. Handled projects across CRM, Order Settlement, Order Management, Online Trading UI, Contract Note Fulfilment, IPO Processing, Lead Managememt, and Compliance Systems. Refined and improved existing SDLC processes for Business Analyst team."
+        details = "Business Analyst for Macquarie Private Wealth. Drove requirements gathering, definition, solution design, and user testing for a number of key business projects such as: \n  \n * CRM implementation \n * Order Settlement \n * Order Management \n * Online Trading UI (Macquarie Edge) \n * Contract Note Fulfilment \n * IPO Processing (Floats) \n * Lead Managememt \n * Compliance Systems such as Know-Your-Client regulations \n  \n In addition, refined and improved existing SDLC processes for Business Analyst team."
 
 
     # Skills section
