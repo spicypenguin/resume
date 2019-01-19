@@ -258,6 +258,9 @@ p {
 .footer .fa-heart {
   color: #fb866a;
 }
+body > div > div.sidebar-wrapper > div.profile-container > img {
+  width: 100px;
+}
 /* Extra small devices (phones, less than 768px) */
 @media (max-width: 767px) {
   .sidebar-wrapper {
