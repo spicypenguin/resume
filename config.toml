@@ -63,7 +63,7 @@ disable404 = true
         title = "Education"
 
         [[params.education.list]]
-        degree = "Bachelor of I.T."
+        degree = "Bachelor of Information Technology"
         college = "University of Technology, Sydney"
         dates = "2004 - 2006"
 
@@ -88,12 +88,12 @@ disable404 = true
         dates = "2016"
 
          [[params.education.list]]
-        degree = "Android Basics Nanodegree by Google"
+        degree = "Android Basics Nanodegree"
         college = "Udacity"
         dates = "2016"
 
          [[params.education.list]]
-        degree = "Data Analyst Nanodegree, Data Analysis"
+        degree = "Data Analyst Nanodegree"
         college = "Udacity"
         dates = "2017 - 2018"
 
