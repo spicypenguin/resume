@@ -159,7 +159,7 @@ disable404 = true
         [[params.jobs.list]]
         position = "Senior Manager, Go to Market Technology"
         dates = "2015 - 2016"
-        company = "Atlassia (San Francisco, USA)"
+        company = "Atlassian (San Francisco, USA)"
         details = "Head of Go to Market technology team, leading two sub-teams of engineers and product managers focused on Marketing and Sales technology stacks. Worked extensively with SaaS vendors in this space, and worked with my leaders to set strategy for each of these business critical areas of capability. High touch role working with a significant portion of internal Atlassian staff."
 
         [[params.jobs.list]]
