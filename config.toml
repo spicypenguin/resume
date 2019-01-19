@@ -209,15 +209,15 @@ disable404 = true
         # Advanced skills - 8
 
         [[params.skills.list]]
-        skill = "Atlassian products (Jira Software, Confluence)"
+        skill = "Atlassian products"
         level = "100%"
 
         [[params.skills.list]]
-        skill = "Email & in-product messaging"
+        skill = "Messaging strategy"
         level = "95%"
 
         [[params.skills.list]]
-        skill = "User segmentation & targeting"
+        skill = "User segmentation"
         level = "95%"
 
         [[params.skills.list]]
@@ -233,7 +233,7 @@ disable404 = true
         level = "90%"
 
         [[params.skills.list]]
-        skill = "Experimentation & measurement"
+        skill = "Experimentation"
         level = "85%"
 
         [[params.skills.list]]
@@ -256,11 +256,11 @@ disable404 = true
         level = "65%"
 
         [[params.skills.list]]
-        skill = "Vendor management & contract negotiation"
+        skill = "Vendor management"
         level = "65%"
 
         [[params.skills.list]]
-        skill = "Python (Software engineering)"
+        skill = "Python development"
         level = "60%"   
 
         [[params.skills.list]]
@@ -268,7 +268,7 @@ disable404 = true
         level = "60%"
 
         [[params.skills.list]]
-        skill = "Continuous integration & deployment"
+        skill = "CI / CD"
         level = "55%"
 
 
