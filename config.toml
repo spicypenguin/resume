@@ -68,12 +68,12 @@ disable404 = true
         dates = "2004 - 2006"
 
         [[params.education.list]]
-        degree = "AWS Certified Solutions Architect Associate"
+        degree = "AWS Certified Solutions Architect - Associate"
         college = "Amazon Web Services"
         dates = "2016"
 
         [[params.education.list]]
-        degree = "AWS Certified Developer Associate"
+        degree = "AWS Certified Developer - Associate"
         college = "Amazon Web Services"
         dates = "2016"
 
@@ -81,6 +81,21 @@ disable404 = true
         degree = "Certified Pragmatic Marketer Level 1 + 2"
         college = "Pragmatic Marketing"
         dates = "2016"
+
+        [[params.education.list]]
+        degree = "Agile Development with Jira Software"
+        college = "Atlassian"
+        dates = "2016"
+
+         [[params.education.list]]
+        degree = "Android Basics Nanodegree by Google"
+        college = "Udacity"
+        dates = "2016"
+
+         [[params.education.list]]
+        degree = "Data Analyst Nanodegree, Data Analysis"
+        college = "Udacity"
+        dates = "2017 - 2018"
 
     # Languages section
     [params.languages]
