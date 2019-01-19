@@ -166,7 +166,7 @@ disable404 = true
         position = "IT Portfolio Manager"
         dates = "2013 - 2015"
         company = "Atlassian (San Francisco, USA)"
-        details = "Acted as a senior member of the IT leadership team within Atlassian, working directly with members of the Atlassian executive team to set IT strategy and direction, and both worked with engineers and led analysts to execute on that strategy."
+        details = "General IT leadership position, responsible for setting strategy and execution across all programs of work within the IT Portfolio. Covered all internal business applications in support of key business functions such as Marketing, Sales, Support, Finance, Legal, People, Data & Analytics. \n  \n Responsibilities included: \n  \n * Directly managing a team of business analysts to execute against program of work \n * Hiring new business analysts, and performing talent management exercises for existing team \n * Working directly with Atlassian executive team on a regular basis to align IT portfolio to business objectives \n * Partnered with IT Development Manager to execute against agreed programs of work \n * Key member of IT Leadership team, responsible for assisting to set future team structures and hiring key leadership positions \n * Ran various functions within IT during periods of re-organization such as the Systems Administration team, Workplace Technology team, and Workplace Engineering teams \n * Drove key vendor discussions such as GoodData implementation company wide \n * Supoorted key initiatives within the IT Portfolio, especially in the lead up to Atlassian's IPO"
 
         [[params.jobs.list]]
         position = "Business Analyst Team Lead"
