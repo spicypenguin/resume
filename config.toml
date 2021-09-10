@@ -1,6 +1,6 @@
 # Page settings
 
-baseurl = "https://jeffsinclair.online/"
+baseurl = "https://resume.jeffable.com/"
 languageCode = "en-us"
 title = "Jeff Sinclair Resume"
 theme = "hugo-orbit-theme"
