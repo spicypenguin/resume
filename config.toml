@@ -151,8 +151,13 @@ disable404 = true
         title = "Professional Experience"
 
         [[params.jobs.list]]
+        position = "Data Science Foundations, Product Manager"
+        dates = "2020 - Present"
+        company = "Stripe (San Francisco, USA)"
+        
+        [[params.jobs.list]]
         position = "Measurement Platform, Product Manager"
-        dates = "2019 - Present"
+        dates = "2019 - 2020"
         company = "Atlassian (San Francisco, USA)"
         details = "Took ownership of Atlassian's Targeting Platform (in addition to existing Engagement Platform responsibilities), broadening scope of my role to encompass data-powered personalisation of Cloud product experiences. \n \n Targeting Platform is bespoke built, high scale (billions of API calls per day), low latency (measured in milliseconds) platform to provide data to Atlassian's cloud products. \n \n Targeting Platform will also act as the center of Atlassian's trait and audience building infrastructure, enabling delivery of high fidelity experiences consistently across the funnel and customer lifecycle. \n \n Responsibilities include:  \n \n * Lead team of engineers and analysts to create and operate a bespoke targeting platform including high scale data ingestion and retrieval, and audience evaluation capabilities \n * Set vision and define strategy for the product \n * Sell vision of platform to senior leadership team (C-Suite) around company \n * Participate in all key scrum-team rituals such as sprint planning and retrospectives  \n * Drive adoption of the platform across Atlassian's product portfolio"
         
