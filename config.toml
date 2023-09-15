@@ -14,7 +14,7 @@ disable404 = true
 [params]
 
 # Meta
-    title = "Jeff Sinclair - Experienced Product Leader"
+    title = "Jeff Sinclair - Experienced Technology Leader"
     description = "Jeff Sinclair's Resume"
     author = "Jeff Sinclair"
 
@@ -32,7 +32,7 @@ disable404 = true
     # Profile section
     [params.profile]
         name = "Jeff Sinclair"
-        tagline = "Product Leader"
+        tagline = "Technology Leader"
         avatar = "profile.png"
 
     # Contact section
@@ -48,14 +48,8 @@ disable404 = true
         [[params.contact.list]]
         class = "github"
         icon = "fa-github"
-        url = "//github.com/jsinks"
-        title = "github.com/jsinks"
-
-        [[params.contact.list]]
-        class = "twitter"
-        icon = "fa-twitter"
-        url = "//twitter.com/jsinkers"
-        title = "@jsinkers"
+        url = "//github.com/spicypenguin"
+        title = "github.com/spicypenguin"
 
     # Education section
     [params.education]
@@ -142,7 +136,7 @@ disable404 = true
         enable = true
         icon = "fa-user"
         title = "Career Profile"
-        summary = "Data Driven, growth-minded SaaS technology leader with over 10 years hands-on experience in both Software Development and Finance at high growth companies. I have a desirably unique blend of skills - a user-centric product mindset, a background in software engineering, advanced data exploration and analysis skills, and sharp business acumen - allowing me to step into any role and have near-immediate impact."
+        summary = "Data Driven, growth-minded SaaS technology leader with over 10 years hands-on experience in Software Development, Product-Led Growth, GTM, and Finance at high growth companies. I have a desirably unique blend of skills - a user-centric product mindset, a background in software engineering, advanced data exploration and analysis skills, and sharp business acumen - allowing me to step into any role and have near-immediate impact."
 
     # Experiences section
     [params.experiences]
@@ -151,60 +145,70 @@ disable404 = true
         title = "Professional Experience"
 
         [[params.jobs.list]]
-        position = "Data Science Foundations, Product Manager"
-        dates = "2020 - Present"
+        position = "Head of GTM Data Services"
+        dates = "2023 - Present"
+        company = "Stripe (San Francisco, USA)"
+
+        [[params.jobs.list]]
+        position = "Engineering Manager, Growth Data Engineering"
+        dates = "2021 - 2023"
+        company = "Stripe (San Francisco, USA)"
+
+        [[params.jobs.list]]
+        position = "Product Manager, Data Science Foundations"
+        dates = "2020 - 2021"
         company = "Stripe (San Francisco, USA)"
         
         [[params.jobs.list]]
-        position = "Measurement Platform, Product Manager"
+        position = "Product Manager, Targeting Platform"
         dates = "2019 - 2020"
         company = "Atlassian (San Francisco, USA)"
         details = "Took ownership of Atlassian's Targeting Platform (in addition to existing Engagement Platform responsibilities), broadening scope of my role to encompass data-powered personalisation of Cloud product experiences. \n \n Targeting Platform is bespoke built, high scale (billions of API calls per day), low latency (measured in milliseconds) platform to provide data to Atlassian's cloud products. \n \n Targeting Platform will also act as the center of Atlassian's trait and audience building infrastructure, enabling delivery of high fidelity experiences consistently across the funnel and customer lifecycle. \n \n Responsibilities include:  \n \n * Lead team of engineers and analysts to create and operate a bespoke targeting platform including high scale data ingestion and retrieval, and audience evaluation capabilities \n * Set vision and define strategy for the product \n * Sell vision of platform to senior leadership team (C-Suite) around company \n * Participate in all key scrum-team rituals such as sprint planning and retrospectives  \n * Drive adoption of the platform across Atlassian's product portfolio"
         
         [[params.jobs.list]]
-        position = "Engagement Platform, Product Manager"
+        position = "Product Manager, Engagement Platform"
         dates = "2016 - 2019"
         company = "Atlassian (San Francisco, USA)"
         details = "Product Manager, responsible for building Atlassian's Engagement Platform product and capability from the ground up. Team started as 2 independent sub-teams (one focused on email, and one on in-product); team's merged in early 2017 at which time I took over leadership of the combined team. \n \n Responsibilities included: \n\n * Lead team of engineers and analysts to create an bespoke user messaging platform \n * Set vision and define strategy for the product team \n * Sell vision of platform to senior leadership team around company to secure funding for team \n * Participate in all key scrum-team rituals such as sprint planning and retrospectives \n * Drive adoption of the platform across Atlassian's product portfolio \n * Work with product and marketing teams to inform messaging strategy for user activation, engagement, retention, and winback of Atlassian's cloud products"
 
         [[params.jobs.list]]
-        position = "Go to Market Technology (IT), Senior Manager"
+        position = "Senior Manager, Go to Market Technology (IT)"
         dates = "2015 - 2016"
         company = "Atlassian (San Francisco, USA)"
         details = "Leader of the Go to Market Technology (IT) team, responsible for the portfolio of products and systems necessary to operate Atlassian's Marketing and Sales business units. \n  \n Responsibilities included: \n  \n * Directly manage 2 IT product managers - one algined to each business unit (MarTech and SalesTech) \n * Hire and manage day-to-day performance of these individuals, and assist in hiring of their respsective teams \n * Assist product leaders set their individual product visions and strategies \n * Key member of IT leadership team, representing the needs of my sub-teams \n * Represent teams at quarterly and yearly planning cycles for budgeting, performance reviews and talent management \n * Work extensively with related SaaS vendors for contract negotiation and ongoing management \n * Work directly with a range of internal Atlassian staff in our supported business areas \n * Dive deep to assist engineers and business analysts in my sub-teams with high impact business problems"
 
         [[params.jobs.list]]
-        position = "IT, Portfolio Manager"
+        position = "Portfolio Manager, IT"
         dates = "2013 - 2015"
         company = "Atlassian (San Francisco, USA)"
         details = "General IT leadership position, responsible for setting strategy and execution across all programs of work within the IT Portfolio. Covered all internal business applications in support of key business functions such as Marketing, Sales, Support, Finance, Legal, People, Data & Analytics. \n  \n Responsibilities included: \n  \n * Directly managing a team of business analysts to execute against program of work \n * Hiring new business analysts, and performing talent management exercises for existing team \n * Working directly with Atlassian executive team on a regular basis to align IT portfolio to business objectives \n * Partnered with IT Development Manager to execute against agreed programs of work \n * Key member of IT Leadership team, responsible for assisting to set future team structures and hiring key leadership positions \n * Ran various functions within IT during periods of re-organization such as the Systems Administration team, Workplace Technology team, and Workplace Engineering teams \n * Drove key vendor discussions such as GoodData implementation company wide \n * Supoorted key initiatives within the IT Portfolio, especially in the lead up to Atlassian's IPO"
 
         [[params.jobs.list]]
-        position = "IT, Business Analyst Team Lead"
+        position = "Business Analyst Team Lead, IT"
         dates = "2012 - 2013"
         company = "Atlassian (San Francisco, USA)"
         details = "Business Analyst Team Lead, and IT Leader for San Francisco office location. Projects ranged from our client facing order form on the website, to our internal bespoke billing system, our financial accounting system (including revenue recognition), marketing technology stack, salesforce.com implementation, to our internal datawarehouse. \n  \n Responsibilities included: \n  \n * Day to day line management responsibility for team of IT Business Analysts \n * Directly liasing with key business stakeholders from all supported business functions to define IT Program of work and prioritse accordingly \n * Act as IT Leader in the San Francisco office - primary touch point for the President, Legal Counsel, and CFO who were co-located in San Francisco \n * Support program of engineering work (define requirements, manage projects, perform testing, basic data analysis) across entire project portfolio \n * Attract and retain talent within the analyst function (recruiting both externally as well as internally) \n "
 
         [[params.jobs.list]]
-        position = "Proprietary Trading, Technical Systems Analyst"
+        position = "Technical Systems Analyst, Proprietary Trading"
         dates = "2011 - 2012"
         company = "Macquarie Holdings (New York, USA)"
         details = "Technical Systems Analyst, providing systems analysis support for the proprietary trading desk. Worked on projects covering middle office (risk management), and back office (Stock Borrow Loan and trade settlements), for all active strategies on the desk. Primary trading strategies on the desk were low frequency and medium frequency (algo-assisted), with high frequency strategies coming on-line as I was leaving this role. \n \n Worked with a remote engineering team based in Singapore for data pipelining and warehousing requirements."
 
         [[params.jobs.list]]
-        position = "UK Wrap, Business Analyst"
+        position = "Business Analyst, UK Wrap"
         dates = "2010 - 2011"
         company = "Macquarie Group (Bristol, UK)"
         details = "Business Analyst supporting Macquarie's UK Wrap product, based in Bristol. UK Wrap was Macquarie's independent financial advisor platform for the UK market, providing access to a suite of internal Macquarie products, research and reporting capabilities. \n \n Role was primarily focused on analysing existing system data quality issues, working with our local engineering team to attempt to remediate, and working with an external design agency to ready UK Wrap 2.0 for public release (revised user experience)."
 
         [[params.jobs.list]]
-        position = "Macquarie Direct, BA Team Lead"
+        position = "BA Team Lead, Macquarie Direct"
         dates = "2009 - 2010"
         company = "Macquarie Bank (Sydney, Australia)"
         details = "Business Analyst Team Lead for Macquarie's Direct products. Covering a portfolio from Online Trading, to Cash Management, and Credit Cards. \n \n Responsibilities included: \n \n \n * Managed a team of up to 14 business analysts supporting all of Macquarie's products that were direct-to-consumer \n * Provided month-to-month project and task allocation amongst my team \n * Performed performance management for individuals on the team \n * Led effort to build and deploy Macquarie's newest online trading platform (Macquarie Edge) \n * Worked directly with engineers to execute against designed business requirements n * Engaged with other areas of the bank such as the Securities group on key projects such as trading platform consolidation"
 
         [[params.jobs.list]]
-        position = "Macquarie Private Wealth, Business Analyst"
+        position = "Business Analyst, Macquarie Private Wealth"
         dates = "2006 - 2009"
         company = "Macquarie Bank (Sydney, Australia)"
         details = "Business Analyst for Macquarie Private Wealth. Drove requirements gathering, definition, solution design, and user testing for a number of key business projects such as: \n  \n * CRM implementation \n * Order Settlement \n * Order Management \n * Online Trading UI (Macquarie Edge) \n * Contract Note Fulfilment \n * IPO Processing (Floats) \n * Lead Managememt \n * Compliance Systems such as Know-Your-Client regulations \n  \n In addition, refined and improved existing SDLC processes for Business Analyst team."
