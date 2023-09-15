@@ -23,7 +23,7 @@ disable404 = true
     # The original template comes with 6 colour schemes. You may choose styles below.
     # "styles.css", "styles-2.css", "styles-3.css", "styles-4.css", "styles-5.css", "styles-6.css"
     # are available. Also the source LESS files are included so
-    # it�s quick and easy to change the styling and colour scheme.
+    # its quick and easy to change the styling and colour scheme.
 
     styles = "styles-6.css"
 
@@ -216,7 +216,7 @@ disable404 = true
 
     # Skills section
     [params.skills]
-        enable = true
+        enable = false
         icon = "fa-rocket"
         title = "Skills & Proficiency"
 
