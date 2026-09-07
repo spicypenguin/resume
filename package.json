@@ -1,8 +1,0 @@
-{
-  "_aerobatic": {
-    "build": {
-      "engine": "hugo",
-      "themeRepo": "https://github.com/aerohub/hugo-orbit-theme"
-    }
-  }
-}
