@@ -26,3 +26,12 @@ This is a plain static site — point any static host (Vercel, Netlify, GitHub P
 There's no CMS or templating — edit `index.html` directly. Sections are in DOM order: hero, profile, skills, experience (grouped by company), education, footer.
 
 Three bullet lists under the Stripe roles in the Experience section are marked with a "Draft — please edit" flag and an HTML comment above them — replace those with real specifics before sending this resume out.
+
+## PDF layout
+
+Use **Save as PDF** with Letter paper, 100% scale, and browser headers and
+footers disabled. The print stylesheet supplies its own page numbering and
+continuation header in browsers supporting CSS page margin boxes (verified in
+Chrome). The print edition uses a shorter profile and experience bullets;
+these are marked `print-only` alongside the full `screen-only` website copy in
+`index.html`. Update both versions when editing career details.
